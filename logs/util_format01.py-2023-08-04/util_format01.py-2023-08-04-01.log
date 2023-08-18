@@ -1,0 +1,490 @@
+2023-08-04 01:01:13,809 - INFO - Huawei Versatile Routing Platform Software VRP (R) software, Version 8.210 (CE6857F V200R021C00SPC200) Copyright (C) 2012-2021 Huawei Technologies Co., Ltd. Huawei CE6857F-48S6CQ
+2023-08-04 01:01:13,810 - INFO - 48S6CQ
+2023-08-04 01:01:13,810 - INFO - <class 'dict'>
+2023-08-04 01:01:13,810 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:13,821 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:15,956 - INFO - Huawei Versatile Routing Platform Software VRP (R) software, Version 8.210 (CE6857F V200R021C00SPC200) Copyright (C) 2012-2021 Huawei Technologies Co., Ltd. Huawei CE6857F-48S6CQ
+2023-08-04 01:01:15,956 - INFO - 48S6CQ
+2023-08-04 01:01:15,957 - INFO - <class 'dict'>
+2023-08-04 01:01:15,957 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:15,968 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:17,690 - INFO - Huawei Versatile Routing Platform Software VRP (R) software, Version 8.150 (CE6855HI V200R002C50SPC800) Copyright (C) 2012-2017 Huawei Technologies Co., Ltd. HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:01:17,690 - INFO - S6Q-HI
+2023-08-04 01:01:17,690 - INFO - <class 'dict'>
+2023-08-04 01:01:17,691 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:17,701 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:19,890 - INFO - Huawei Versatile Routing Platform Software VRP (R) software, Version 8.180 (CE6855HI V200R005C10SPC800) Copyright (C) 2012-2018 Huawei Technologies Co., Ltd. HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:01:19,890 - INFO - S6Q-HI
+2023-08-04 01:01:19,890 - INFO - <class 'dict'>
+2023-08-04 01:01:19,890 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:19,900 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:22,091 - INFO - Huawei Versatile Routing Platform Software VRP (R) software, Version 8.180 (CE6855HI V200R005C10SPC800) Copyright (C) 2012-2018 Huawei Technologies Co., Ltd. HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:01:22,091 - INFO - S6Q-HI
+2023-08-04 01:01:22,092 - INFO - <class 'dict'>
+2023-08-04 01:01:22,092 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:01:22,101 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:15,535 - INFO - Huawei CE6857F-48S6CQ
+2023-08-04 01:04:15,536 - INFO - 48S6CQ
+2023-08-04 01:04:15,536 - INFO - <class 'dict'>
+2023-08-04 01:04:15,536 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:15,546 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:17,727 - INFO - Huawei CE6857F-48S6CQ
+2023-08-04 01:04:17,727 - INFO - 48S6CQ
+2023-08-04 01:04:17,727 - INFO - <class 'dict'>
+2023-08-04 01:04:17,727 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:17,737 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:19,508 - INFO - UAWEI CE6855-48S6Q-HI
+2023-08-04 01:04:19,508 - INFO - S6Q-HI
+2023-08-04 01:04:19,508 - INFO - <class 'dict'>
+2023-08-04 01:04:19,509 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:19,519 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:21,928 - INFO - UAWEI CE6855-48S6Q-HI
+2023-08-04 01:04:21,928 - INFO - S6Q-HI
+2023-08-04 01:04:21,928 - INFO - <class 'dict'>
+2023-08-04 01:04:21,928 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:21,939 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:24,241 - INFO - UAWEI CE6855-48S6Q-HI
+2023-08-04 01:04:24,241 - INFO - S6Q-HI
+2023-08-04 01:04:24,241 - INFO - <class 'dict'>
+2023-08-04 01:04:24,242 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:04:24,252 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:00,041 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:07:00,041 - INFO - CE6857F-48S6CQ
+2023-08-04 01:07:00,041 - INFO - <class 'dict'>
+2023-08-04 01:07:00,041 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:00,052 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:01,937 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:07:01,937 - INFO - CE6857F-48S6CQ
+2023-08-04 01:07:01,937 - INFO - <class 'dict'>
+2023-08-04 01:07:01,938 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:01,948 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:03,799 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:07:03,799 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:07:03,799 - INFO - <class 'dict'>
+2023-08-04 01:07:03,799 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:03,809 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:06,225 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:07:06,225 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:07:06,226 - INFO - <class 'dict'>
+2023-08-04 01:07:06,226 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:06,236 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:08,409 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:07:08,409 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:07:08,409 - INFO - <class 'dict'>
+2023-08-04 01:07:08,410 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:07:08,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:34,596 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:11:34,596 - INFO - CE6857F-48S6CQ
+2023-08-04 01:11:34,597 - INFO - <class 'dict'>
+2023-08-04 01:11:34,597 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:34,607 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:36,678 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:11:36,678 - INFO - CE6857F-48S6CQ
+2023-08-04 01:11:36,678 - INFO - <class 'dict'>
+2023-08-04 01:11:36,679 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:36,689 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:38,444 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:11:38,444 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:11:38,444 - INFO - <class 'dict'>
+2023-08-04 01:11:38,445 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:38,454 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:40,629 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:11:40,629 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:11:40,629 - INFO - <class 'dict'>
+2023-08-04 01:11:40,630 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:40,639 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:42,901 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:11:42,901 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:11:42,901 - INFO - <class 'dict'>
+2023-08-04 01:11:42,902 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:11:42,911 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,066 - INFO - <class 'dict'>
+2023-08-04 01:20:46,066 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:46,067 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:46,067 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:46,067 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:46,067 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,067 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,067 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,067 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,067 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,067 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:46,078 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:46,078 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:46,078 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:46,078 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:46,078 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,874 - INFO - <class 'dict'>
+2023-08-04 01:20:47,874 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:47,874 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:47,874 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:47,874 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:47,875 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,875 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,875 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,875 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,875 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,875 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:47,885 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:47,885 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:47,885 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:20:47,885 - INFO - CE6857F-48S6CQ
+2023-08-04 01:20:47,886 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,772 - INFO - <class 'dict'>
+2023-08-04 01:20:49,772 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:49,772 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:49,772 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:49,772 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:49,773 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,773 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,773 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,773 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,773 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,773 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:49,783 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:49,783 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:49,783 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:49,783 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:49,784 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,196 - INFO - <class 'dict'>
+2023-08-04 01:20:52,196 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:52,196 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:52,196 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:52,197 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:52,197 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,197 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,197 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,197 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,197 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,197 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:52,208 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:52,208 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:52,208 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:52,208 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:52,208 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,562 - INFO - <class 'dict'>
+2023-08-04 01:20:54,562 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:54,562 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:54,562 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:54,562 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:54,563 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,563 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,563 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,563 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,563 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,563 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:20:54,573 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:54,573 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:54,573 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:20:54,573 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:20:54,573 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,922 - INFO - <class 'dict'>
+2023-08-04 01:21:32,922 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:32,922 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:32,922 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:32,923 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:32,923 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,923 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,923 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,923 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,923 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,923 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:32,933 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:32,934 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:32,934 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:32,934 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:32,934 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,934 - INFO - <class 'dict'>
+2023-08-04 01:21:34,934 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:34,934 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:34,934 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:34,935 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:34,935 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,935 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,935 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,935 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,935 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,935 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:34,945 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:34,945 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:34,945 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:21:34,945 - INFO - CE6857F-48S6CQ
+2023-08-04 01:21:34,945 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,792 - INFO - <class 'dict'>
+2023-08-04 01:21:36,792 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:36,792 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:36,793 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:36,793 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:36,793 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,793 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,793 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,793 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,793 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,793 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:36,803 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:36,803 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:36,803 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:36,803 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:36,803 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,047 - INFO - <class 'dict'>
+2023-08-04 01:21:39,047 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:39,047 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:39,047 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:39,047 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:39,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,048 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,048 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,048 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:39,057 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:39,057 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:39,057 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:39,057 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:39,057 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,161 - INFO - <class 'dict'>
+2023-08-04 01:21:41,161 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:41,162 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:41,162 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:41,162 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:41,162 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,162 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,162 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,162 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,162 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,162 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:21:41,173 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:41,173 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:41,173 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:21:41,173 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:21:41,174 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,419 - INFO - <class 'dict'>
+2023-08-04 01:45:44,419 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:44,420 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:44,420 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:44,420 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:44,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,420 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:44,430 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:44,430 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:44,430 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:44,430 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:44,431 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,314 - INFO - <class 'dict'>
+2023-08-04 01:45:47,314 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:47,314 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:47,314 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:47,314 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:47,314 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,316 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,316 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,316 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,316 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,316 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:47,327 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:47,327 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:47,327 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:45:47,327 - INFO - CE6857F-48S6CQ
+2023-08-04 01:45:47,327 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,170 - INFO - <class 'dict'>
+2023-08-04 01:45:49,170 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:49,170 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:49,170 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:49,170 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:49,170 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,170 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,170 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,170 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,170 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,170 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:49,181 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:49,181 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:49,181 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:49,181 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:49,181 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,458 - INFO - <class 'dict'>
+2023-08-04 01:45:51,458 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:51,458 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:51,458 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:51,458 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:51,459 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,459 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,459 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,459 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,459 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,459 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:51,469 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:51,469 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:51,469 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:51,469 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:51,470 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,603 - INFO - <class 'dict'>
+2023-08-04 01:45:53,603 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:53,603 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:53,603 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:53,603 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:53,603 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,603 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,603 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,603 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,604 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,604 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:45:53,614 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:53,614 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:53,614 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:45:53,614 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:45:53,614 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,647 - INFO - <class 'dict'>
+2023-08-04 01:47:33,647 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:33,647 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:33,647 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:33,647 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:33,647 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,647 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,647 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,647 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,647 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,647 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:33,658 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:33,658 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:33,658 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:33,658 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:33,659 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,643 - INFO - <class 'dict'>
+2023-08-04 01:47:35,643 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:35,643 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:35,643 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:35,643 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:35,643 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,644 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,644 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,644 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,644 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,644 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:35,653 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:35,654 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:35,654 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:47:35,654 - INFO - CE6857F-48S6CQ
+2023-08-04 01:47:35,654 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,405 - INFO - <class 'dict'>
+2023-08-04 01:47:37,405 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:37,405 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:37,405 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:37,405 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:37,406 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,406 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,406 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,406 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,406 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,406 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:37,417 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:37,417 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:37,417 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:37,417 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:37,417 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,611 - INFO - <class 'dict'>
+2023-08-04 01:47:39,611 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:39,611 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:39,611 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:39,611 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:39,611 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,611 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,611 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,611 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,611 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,612 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:39,622 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:39,622 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:39,622 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:39,622 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:39,623 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,713 - INFO - <class 'dict'>
+2023-08-04 01:47:41,713 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:41,713 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:41,713 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:41,713 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:41,713 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,714 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,714 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,714 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,714 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,714 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:47:41,724 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:41,724 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:41,724 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:47:41,724 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:47:41,724 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,346 - INFO - <class 'dict'>
+2023-08-04 01:49:27,347 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:49:27,347 - INFO - CE6857F-48S6CQ
+2023-08-04 01:49:27,347 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:49:27,347 - INFO - CE6857F-48S6CQ
+2023-08-04 01:49:27,347 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,347 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,347 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,347 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,347 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,347 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:27,357 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:49:27,357 - INFO - CE6857F-48S6CQ
+2023-08-04 01:49:27,357 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,388 - INFO - <class 'dict'>
+2023-08-04 01:49:29,388 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:49:29,389 - INFO - CE6857F-48S6CQ
+2023-08-04 01:49:29,389 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:49:29,389 - INFO - CE6857F-48S6CQ
+2023-08-04 01:49:29,389 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,389 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,389 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,389 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,389 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,389 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:29,399 - INFO -  Huawei CE6857F-48S6CQ
+2023-08-04 01:49:29,400 - INFO - CE6857F-48S6CQ
+2023-08-04 01:49:29,400 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,500 - INFO - <class 'dict'>
+2023-08-04 01:49:31,500 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:31,500 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:31,501 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:31,501 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:31,501 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,501 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,501 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,501 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,501 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,501 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:31,511 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:31,511 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:31,511 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,806 - INFO - <class 'dict'>
+2023-08-04 01:49:33,807 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:33,807 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:33,807 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:33,807 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:33,807 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,807 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,807 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,807 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,807 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,807 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:33,817 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:33,817 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:33,817 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,046 - INFO - <class 'dict'>
+2023-08-04 01:49:36,046 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:36,046 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:36,046 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:36,046 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:36,046 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,047 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 01:49:36,057 - INFO - HUAWEI CE6855-48S6Q-HI
+2023-08-04 01:49:36,057 - INFO - CE6855-48S6Q-HI
+2023-08-04 01:49:36,057 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}

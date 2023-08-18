@@ -1,0 +1,109 @@
+2023-07-31 22:06:15,446 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:15,455 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:15,455 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:06:15,463 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:15,463 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:06:15,464 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:06:15,464 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:06:15,464 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:06:17,968 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:19,987 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:21,908 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:24,204 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:06:26,375 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:06,404 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:06,413 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:06,414 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:09:06,422 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:06,422 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:09:06,423 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:09:06,423 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:09:06,423 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:09:08,867 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:10,833 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:12,604 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:15,012 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:09:17,322 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:03,459 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:03,468 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:03,469 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:24:03,477 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:03,477 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:24:03,478 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:24:03,478 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:24:03,478 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:24:05,831 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:07,855 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:09,674 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:11,776 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:24:14,020 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:30:59,403 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:30:59,411 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:30:59,413 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:30:59,421 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:30:59,422 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:30:59,422 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:30:59,422 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:30:59,423 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:31:01,830 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:31:03,984 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:31:05,721 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:31:07,972 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:31:10,244 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:10,839 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:10,847 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:10,848 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:35:10,856 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:10,856 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:35:10,857 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:35:10,857 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:35:10,857 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:35:13,242 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:15,277 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:17,305 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:19,692 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:35:21,798 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:22,834 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:22,842 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:22,843 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:36:22,851 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:22,851 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:36:22,852 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:36:22,852 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:36:22,852 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:36:25,290 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:27,304 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:29,157 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:31,220 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:36:33,509 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:22,927 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:22,936 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:22,937 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:41:22,945 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:22,945 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:41:22,945 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:41:22,945 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:41:22,946 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:41:25,316 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:27,409 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:29,265 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:31,619 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:41:33,973 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:29,222 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:29,231 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:29,232 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:50:29,240 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:29,240 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:50:29,240 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 22:50:29,240 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-07-31 22:50:29,241 - INFO - 成功关闭MySQL数据库连接
+2023-07-31 22:50:31,589 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:31,591 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 1
+2023-07-31 22:50:33,608 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:33,610 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 2
+2023-07-31 22:50:35,379 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:35,380 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 3
+2023-07-31 22:50:37,426 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:37,427 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 4
+2023-07-31 22:50:39,638 - INFO - 成功连接到MySQL数据库
+2023-07-31 22:50:39,639 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 5

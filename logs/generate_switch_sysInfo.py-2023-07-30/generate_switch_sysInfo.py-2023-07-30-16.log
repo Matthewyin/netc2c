@@ -1,0 +1,6 @@
+2023-07-30 16:49:05,108 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-30 16:49:05,109 - ERROR - 保存结果时发生错误：write() argument must be str, not GetReply
+2023-07-30 16:49:53,330 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-30 16:49:53,331 - INFO - 结果已保存到 results\sysInfo\result_sysInfo_HW_CE6857F.xml_20230730-16.xml。
+2023-07-30 16:50:54,809 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-30 16:50:54,810 - INFO - 结果已保存到 results\sysInfo\result_sysInfo_HW_CE6857F.xml_20230730-16.xml。

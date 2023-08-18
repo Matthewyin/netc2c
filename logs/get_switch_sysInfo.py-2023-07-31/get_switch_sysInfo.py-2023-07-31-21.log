@@ -1,0 +1,96 @@
+2023-07-31 21:43:02,305 - INFO - 开始获取设备信息...
+2023-07-31 21:43:04,640 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:43:04,654 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:06,592 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:43:06,667 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:08,370 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:43:08,383 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:10,733 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:43:10,746 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:17,622 - INFO - 开始获取设备信息...
+2023-07-31 21:43:20,069 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:43:20,081 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:22,206 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:43:22,219 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:23,953 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:43:23,965 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:26,141 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:43:26,152 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:43:28,311 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:43:28,323 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:50:20,667 - INFO - 开始获取设备信息...
+2023-07-31 21:50:23,199 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:50:23,230 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:50:25,288 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:50:25,302 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:50:27,143 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:50:27,156 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:50:29,536 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:50:29,549 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:50:31,869 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:50:31,884 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:54:09,111 - INFO - 开始获取设备信息...
+2023-07-31 21:54:11,550 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:54:11,564 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:54:13,637 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:54:13,649 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:54:15,682 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:54:15,696 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:54:17,992 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:54:18,004 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:54:20,199 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:54:20,211 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:01,338 - INFO - 开始获取设备信息...
+2023-07-31 21:55:03,805 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:55:03,806 - INFO - 111
+2023-07-31 21:55:03,819 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:05,926 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:55:05,927 - INFO - 111
+2023-07-31 21:55:05,939 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:07,993 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:55:07,993 - INFO - 111
+2023-07-31 21:55:08,005 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:10,449 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:55:10,449 - INFO - 111
+2023-07-31 21:55:10,462 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:12,802 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:55:12,803 - INFO - 111
+2023-07-31 21:55:12,815 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:53,284 - INFO - 开始获取设备信息...
+2023-07-31 21:55:55,824 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:55:55,838 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:57,933 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:55:57,948 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:55:59,866 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:55:59,878 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:01,885 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:56:01,897 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:04,009 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:56:04,020 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:21,186 - INFO - 开始获取设备信息...
+2023-07-31 21:56:23,553 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:56:23,553 - INFO - uptime:0年2月16日7小时30分钟12秒
+2023-07-31 21:56:23,569 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:25,767 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:56:25,767 - INFO - uptime:0年2月16日7小时31分钟43秒
+2023-07-31 21:56:25,779 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:27,680 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:56:27,680 - INFO - uptime:0年8月10日2小时45分钟25秒
+2023-07-31 21:56:27,692 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:30,187 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:56:30,187 - INFO - uptime:0年6月19日7小时19分钟9秒
+2023-07-31 21:56:30,199 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:56:32,419 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:56:32,419 - INFO - uptime:0年6月18日5小时41分钟58秒
+2023-07-31 21:56:32,431 - ERROR - 解析XML时发生错误：update_device_info() missing 5 required positional arguments: 'hostname', 'manufacturer', 'device_model', 'uptime', and 'SN'
+2023-07-31 21:57:03,133 - INFO - 开始获取设备信息...
+2023-07-31 21:57:05,486 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-07-31 21:57:05,486 - INFO - uptime:0年2月16日7小时30分钟54秒
+2023-07-31 21:57:07,584 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-07-31 21:57:07,584 - INFO - uptime:0年2月16日7小时32分钟25秒
+2023-07-31 21:57:09,711 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-07-31 21:57:09,711 - INFO - uptime:0年8月10日2小时46分钟7秒
+2023-07-31 21:57:11,961 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-07-31 21:57:11,961 - INFO - uptime:0年6月19日7小时19分钟50秒
+2023-07-31 21:57:14,239 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-07-31 21:57:14,240 - INFO - uptime:0年6月18日5小时42分钟40秒

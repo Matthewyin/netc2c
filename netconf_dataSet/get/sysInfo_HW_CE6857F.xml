@@ -1,0 +1,28 @@
+<filter type="subtree">
+    <system xmlns="http://www.huawei.com/netconf/vrp" content-version="1.0" format-version="1.0">
+        <systemInfo>
+            <sysName></sysName>
+            <sysDesc></sysDesc>
+            <sysObjectId></sysObjectId>
+            <sysGmtTime></sysGmtTime>
+            <sysUpTime></sysUpTime>
+            <productName></productName>
+            <productVer></productVer>
+            <patchVer></patchVer>
+            <esn></esn>
+            <mac></mac>
+        </systemInfo>
+    </system>
+</filter>
+
+<!--<filter type="subtree">-->
+<!--    <devm xmlns="http://www.huawei.com/netconf/vrp" content-version="1.0" format-version="1.0">-->
+<!--        <rUModuleInfos>-->
+<!--            <rUModuleInfo>-->
+<!--                <entClass></entClass>-->
+<!--                <position></position>-->
+<!--                <entSerialNo></entSerialNo>-->
+<!--            </rUModuleInfo>-->
+<!--        </rUModuleInfos>-->
+<!--    </devm>-->
+<!--</filter>-->

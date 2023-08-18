@@ -1,0 +1,934 @@
+2023-08-04 10:09:07,174 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:07,183 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:07,184 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:09:07,192 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:07,192 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:09:07,193 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:09:07,193 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:09:07,193 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:09:09,417 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:09,418 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:09:09,419 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000024C1BAD9CF0>>
+2023-08-04 10:09:09,419 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:09:09,419 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 10:09:09,419 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:09:11,541 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:11,542 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:09:11,542 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000024C1BAD9150>>
+2023-08-04 10:09:11,542 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:09:11,542 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 10:09:11,543 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:09:13,390 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:13,391 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:09:13,391 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000024C1BB2B5B0>>
+2023-08-04 10:09:13,391 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:09:13,391 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 10:09:13,391 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:09:15,545 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:15,546 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:09:15,546 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000024C1BB73580>>
+2023-08-04 10:09:15,546 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:09:15,546 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 10:09:15,547 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:09:17,806 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:09:17,807 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:09:17,807 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000024C1C3D7B20>>
+2023-08-04 10:09:17,807 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:09:17,807 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 10:09:17,808 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:42,955 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:42,964 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:42,965 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:42,974 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:42,974 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:16:42,974 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:16:42,974 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:16:42,975 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:45,353 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:45,354 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:16:45,354 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021C03789CF0>>
+2023-08-04 10:16:45,354 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:16:45,354 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:16:45,355 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:47,473 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:47,474 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:16:47,474 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021C03727790>>
+2023-08-04 10:16:47,474 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:16:47,474 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:16:47,475 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:49,381 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:49,382 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:16:49,382 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021C037DB670>>
+2023-08-04 10:16:49,382 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:16:49,382 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:16:49,383 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:51,624 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:51,624 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:16:51,625 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021C03833640>>
+2023-08-04 10:16:51,625 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:16:51,625 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:16:51,625 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:16:53,980 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:16:53,981 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:16:53,981 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021C0409FBE0>>
+2023-08-04 10:16:53,981 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:16:53,981 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:16:53,981 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:15,438 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:15,446 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:15,447 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:15,455 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:15,456 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:28:15,456 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:28:15,456 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:28:15,457 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:17,716 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:17,717 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:28:17,717 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000201CA6E7A00>>
+2023-08-04 10:28:17,717 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:28:17,717 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:28:17,718 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:19,771 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:19,772 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:28:19,772 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000201CA799420>>
+2023-08-04 10:28:19,772 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:28:19,772 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:28:19,772 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:21,826 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:21,827 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:28:21,828 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000201CB00A950>>
+2023-08-04 10:28:21,828 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:28:21,828 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:28:21,828 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:23,950 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:23,950 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:28:23,951 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000201CB0228C0>>
+2023-08-04 10:28:23,951 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:28:23,951 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:28:23,951 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:28:26,198 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:28:26,199 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:28:26,199 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000201CB06EE60>>
+2023-08-04 10:28:26,199 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:28:26,199 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:28:26,199 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:33:53,326 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:33:53,335 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:33:53,336 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:33:53,344 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:33:53,344 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:33:53,344 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:33:53,345 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:33:53,345 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:33:55,792 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:33:55,793 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:33:55,793 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000210F6987A00>>
+2023-08-04 10:33:55,793 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:33:55,793 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:33:55,794 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:33:57,756 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:33:57,757 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:33:57,757 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000210F6A39420>>
+2023-08-04 10:33:57,757 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:33:57,757 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:33:57,758 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:33:59,485 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:33:59,486 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:33:59,486 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000210F72AE950>>
+2023-08-04 10:33:59,486 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:33:59,486 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:33:59,486 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:34:01,637 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:34:01,638 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:34:01,638 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000210F72C28C0>>
+2023-08-04 10:34:01,638 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:34:01,638 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:34:01,639 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:34:03,945 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:34:03,945 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:34:03,946 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000210F730EE60>>
+2023-08-04 10:34:03,946 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:34:03,946 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:34:03,946 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:38,768 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:38,777 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:38,778 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:38,786 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:38,786 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:35:38,786 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:35:38,787 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:35:38,787 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:41,632 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:41,633 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:35:41,633 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001CBC4527B20>>
+2023-08-04 10:35:41,633 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:35:41,633 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:35:41,634 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:43,841 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:43,841 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:35:43,842 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001CBC45D9420>>
+2023-08-04 10:35:43,842 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:35:43,842 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:35:43,842 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:45,559 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:45,559 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:35:45,560 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001CBC4E4A950>>
+2023-08-04 10:35:45,560 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:35:45,560 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:35:45,560 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:47,950 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:47,950 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:35:47,951 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001CBC4E628C0>>
+2023-08-04 10:35:47,951 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:35:47,951 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:35:47,951 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:35:50,285 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:35:50,286 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:35:50,286 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001CBC4EAEE60>>
+2023-08-04 10:35:50,286 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:35:50,286 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:35:50,286 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:38:51,269 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:51,278 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:51,279 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:38:51,287 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:51,288 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:38:51,288 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:38:51,288 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:38:51,289 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:38:53,560 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:53,561 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:38:53,561 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000185C36D7970>>
+2023-08-04 10:38:53,561 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:38:53,561 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:38:53,562 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:38:55,688 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:55,688 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:38:55,688 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000185C3789450>>
+2023-08-04 10:38:55,688 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:38:55,688 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:38:55,688 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:38:57,311 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:57,312 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:38:57,312 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000185C3FFA980>>
+2023-08-04 10:38:57,312 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:38:57,312 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:38:57,312 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:38:59,418 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:38:59,419 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:38:59,419 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000185C40128F0>>
+2023-08-04 10:38:59,419 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:38:59,419 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:38:59,420 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:39:01,541 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:39:01,542 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:39:01,542 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000185C405EE90>>
+2023-08-04 10:39:01,542 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:39:01,542 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:39:01,542 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:11,238 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:11,246 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:11,247 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:11,255 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:11,255 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:40:11,255 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:40:11,255 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:40:11,255 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:13,419 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:13,420 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:40:13,420 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021A49CC72B0>>
+2023-08-04 10:40:13,420 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:40:13,420 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:40:13,421 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:15,430 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:15,431 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:40:15,432 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021A49D69330>>
+2023-08-04 10:40:15,432 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:40:15,432 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:40:15,432 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:17,212 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:17,214 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:40:17,214 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021A49DDA860>>
+2023-08-04 10:40:17,214 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:40:17,214 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:40:17,214 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:19,428 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:19,429 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:40:19,429 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021A49DF27D0>>
+2023-08-04 10:40:19,429 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:40:19,429 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:40:19,429 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:40:21,812 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:40:21,812 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:40:21,812 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021A49E3ED70>>
+2023-08-04 10:40:21,813 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:40:21,813 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:40:21,813 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:27,876 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:27,885 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:27,886 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:27,894 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:27,894 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:41:27,895 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:41:27,895 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:41:27,895 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:30,289 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:30,290 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:41:30,290 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001A6A09A7A00>>
+2023-08-04 10:41:30,290 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:41:30,290 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:41:30,291 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:32,352 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:32,352 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:41:32,352 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001A6A0A59450>>
+2023-08-04 10:41:32,352 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:41:32,352 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:41:32,352 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:34,215 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:34,216 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:41:34,216 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001A6A12C6980>>
+2023-08-04 10:41:34,216 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:41:34,216 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:41:34,216 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:36,520 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:36,520 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:41:36,520 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001A6A12E28F0>>
+2023-08-04 10:41:36,520 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:41:36,520 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:41:36,520 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:41:38,746 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:41:38,747 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:41:38,747 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001A6A132EE90>>
+2023-08-04 10:41:38,747 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:41:38,747 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:41:38,748 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:09,434 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:09,443 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:09,444 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:09,451 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:09,452 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:42:09,452 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:42:09,452 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:42:09,453 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:11,726 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:11,726 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:42:11,726 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021F7A437A00>>
+2023-08-04 10:42:11,726 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:42:11,726 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:42:11,727 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:13,787 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:13,788 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:42:13,788 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021F7A4E9450>>
+2023-08-04 10:42:13,788 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:42:13,788 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:42:13,789 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:15,878 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:15,879 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:42:15,879 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021F7A55A980>>
+2023-08-04 10:42:15,879 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:42:15,879 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:42:15,880 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:18,088 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:18,089 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:42:18,089 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021F7A5728F0>>
+2023-08-04 10:42:18,089 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:42:18,090 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:42:18,090 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:42:20,334 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:42:20,335 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:42:20,335 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021F7A5BEE90>>
+2023-08-04 10:42:20,335 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:42:20,335 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:42:20,335 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:44:51,139 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:51,147 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:51,148 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:44:51,156 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:51,156 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:44:51,157 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:44:51,157 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:44:51,157 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:44:53,460 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:53,461 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:44:53,461 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000014465E97A90>>
+2023-08-04 10:44:53,461 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:44:53,461 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:44:53,462 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:44:55,492 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:55,493 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:44:55,493 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000014465F49510>>
+2023-08-04 10:44:55,493 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:44:55,493 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:44:55,493 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:44:57,241 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:57,242 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:44:57,242 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000014465FB94B0>>
+2023-08-04 10:44:57,242 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:44:57,242 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:44:57,242 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:44:59,442 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:44:59,442 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:44:59,443 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000014465FD2260>>
+2023-08-04 10:44:59,443 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:44:59,443 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:44:59,443 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:45:01,531 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:45:01,532 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:45:01,532 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001446601EF50>>
+2023-08-04 10:45:01,532 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:45:01,532 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:45:01,532 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:23,911 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:23,920 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:23,921 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:23,929 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:23,929 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:49:23,930 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:49:23,930 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:49:23,930 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:26,407 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:26,408 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:49:26,408 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002B1FD0579D0>>
+2023-08-04 10:49:26,408 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:49:26,408 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:49:26,409 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:28,530 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:28,531 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:49:28,531 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002B1FD109450>>
+2023-08-04 10:49:28,531 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:49:28,531 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:49:28,531 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:30,345 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:30,345 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:49:30,346 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002B1FD17A980>>
+2023-08-04 10:49:30,346 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:49:30,346 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:49:30,346 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:32,712 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:32,713 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:49:32,713 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002B1FD1928F0>>
+2023-08-04 10:49:32,713 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:49:32,713 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:49:32,713 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:49:34,906 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:49:34,906 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:49:34,906 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002B1FD1DEE90>>
+2023-08-04 10:49:34,906 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:49:34,906 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:49:34,906 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:08,323 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:08,332 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:08,333 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:08,342 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:08,342 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:53:08,343 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:53:08,343 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:53:08,343 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:10,829 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:10,830 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:10,830 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001D3A9F379D0>>
+2023-08-04 10:53:10,830 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:10,830 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:10,831 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:12,898 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:12,899 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:12,899 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001D3A9FE9420>>
+2023-08-04 10:53:12,899 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:12,899 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:12,900 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:14,844 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:14,845 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:14,845 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001D3AA85A950>>
+2023-08-04 10:53:14,845 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:14,845 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:14,845 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:16,921 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:16,922 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:16,922 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001D3AA8728C0>>
+2023-08-04 10:53:16,922 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:16,922 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:16,922 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:19,268 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:19,268 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:19,269 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000001D3AA8BEE60>>
+2023-08-04 10:53:19,269 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:19,269 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:19,269 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:47,038 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:47,046 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:47,047 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:47,056 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:47,056 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:53:47,057 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:53:47,057 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:53:47,057 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:49,426 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:49,427 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:49,427 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000178CC954AF0>>
+2023-08-04 10:53:49,427 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:49,427 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:49,428 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:53:51,458 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:53:51,459 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:53:51,459 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000178CCA09420>>
+2023-08-04 10:53:51,459 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:53:51,460 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:53:51,460 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:54:31,937 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:54:31,945 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:54:31,946 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:54:31,954 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:54:31,954 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:54:31,955 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:54:31,955 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:54:31,955 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:54:34,409 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:54:34,410 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:54:34,410 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002C4A5B97B20>>
+2023-08-04 10:54:34,410 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:54:34,410 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:54:34,411 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:57:02,300 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:57:02,309 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:57:02,310 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:57:02,318 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:57:02,318 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:57:02,318 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:57:02,318 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:57:02,319 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:57:04,749 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:57:04,750 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:57:04,750 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000015A00037B80>>
+2023-08-04 10:57:04,750 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:57:04,750 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:57:04,751 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:57:06,672 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:57:06,673 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:57:06,673 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000015A000E9450>>
+2023-08-04 10:57:06,673 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:57:06,673 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:57:06,673 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:57:08,406 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:57:08,407 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:57:08,407 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000015A0093A980>>
+2023-08-04 10:57:08,407 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:57:08,407 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:57:08,408 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:06,490 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:06,499 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:06,500 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:06,508 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:06,508 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:58:06,509 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:58:06,509 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:58:06,509 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:08,829 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:08,830 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:58:08,830 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000026756E54B20>>
+2023-08-04 10:58:08,830 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:58:08,830 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:58:08,831 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:10,610 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:10,610 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:58:10,610 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000026756F09450>>
+2023-08-04 10:58:10,610 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:58:10,610 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:58:10,610 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:12,450 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:12,451 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:58:12,451 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002675777A980>>
+2023-08-04 10:58:12,451 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:58:12,451 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:58:12,452 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:14,545 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:14,546 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:58:14,546 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000267577928F0>>
+2023-08-04 10:58:14,546 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:58:14,546 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:58:14,547 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:58:16,973 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:58:16,974 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:58:16,974 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000267577DEE90>>
+2023-08-04 10:58:16,974 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:58:16,974 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:58:16,974 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:01,352 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:01,361 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:01,362 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:01,369 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:01,370 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:59:01,370 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:59:01,370 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:59:01,370 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:03,651 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:03,651 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:03,652 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000162D6B077C0>>
+2023-08-04 10:59:03,652 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:03,652 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:03,653 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:05,615 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:05,616 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:05,616 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000162D6BB9450>>
+2023-08-04 10:59:05,616 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:05,616 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:05,617 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:07,486 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:07,487 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:07,487 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000162D6C2A980>>
+2023-08-04 10:59:07,487 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:07,487 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:07,487 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:09,557 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:09,559 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:09,559 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000162D6C428F0>>
+2023-08-04 10:59:09,559 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:09,559 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:09,560 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:11,816 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:11,817 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:11,817 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000162D6C8EE90>>
+2023-08-04 10:59:11,817 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:11,818 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:11,818 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:50,084 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:50,092 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:50,093 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:50,101 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:50,101 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:59:50,102 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 10:59:50,102 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 10:59:50,102 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:52,486 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:52,487 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:52,487 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000029B7D307A30>>
+2023-08-04 10:59:52,487 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:52,487 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:52,488 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:54,468 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:54,469 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:54,469 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000029B7D3B9450>>
+2023-08-04 10:59:54,469 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:54,469 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:54,469 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:56,376 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:56,376 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:56,377 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000029B7D42A980>>
+2023-08-04 10:59:56,377 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:56,377 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:56,377 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 10:59:58,586 - INFO - 成功连接到MySQL数据库
+2023-08-04 10:59:58,587 - INFO - +++++++++++++++++++++++++++
+2023-08-04 10:59:58,587 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000029B7D4428F0>>
+2023-08-04 10:59:58,587 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 10:59:58,587 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 10:59:58,587 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:00:00,989 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:00:00,989 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:00:00,990 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000029B7D48EE90>>
+2023-08-04 11:00:00,990 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:00:00,990 - ERROR - 更新设备信息时发生错误：'device_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['device_model'], device_info['uptime'],
+KeyError: 'device_model'
+2023-08-04 11:00:00,990 - INFO - 成功关闭MySQL数据库连接

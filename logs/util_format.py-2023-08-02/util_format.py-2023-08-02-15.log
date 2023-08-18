@@ -1,0 +1,10 @@
+2023-08-02 15:15:22,516 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:22,538 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:24,642 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:24,653 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:26,423 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:26,439 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:28,906 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:28,917 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:31,178 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-02 15:15:31,189 - INFO - {'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}

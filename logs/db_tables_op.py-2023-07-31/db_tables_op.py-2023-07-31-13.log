@@ -1,0 +1,21 @@
+2023-07-31 13:04:37,976 - INFO - 555
+2023-07-31 13:04:37,977 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 13:04:37,978 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-31 13:13:59,792 - ERROR - 与MySQL数据库通信时发生错误：local variable 'connection' referenced before assignment
+2023-07-31 13:13:59,793 - INFO - 555
+2023-07-31 13:13:59,793 - ERROR - 获取管理IP时发生错误：name 'conn' is not defined
+2023-07-31 13:21:25,908 - ERROR - 与MySQL数据库通信时发生错误：name 'conn' is not defined
+2023-07-31 13:21:25,908 - INFO - 555
+2023-07-31 13:21:25,908 - ERROR - 获取管理IP时发生错误：name 'conn' is not defined
+2023-07-31 13:23:07,907 - ERROR - 与MySQL数据库通信时发生错误：name 'conn' is not defined
+2023-07-31 13:23:07,907 - INFO - 555
+2023-07-31 13:23:07,907 - ERROR - 获取管理IP时发生错误：name 'conn' is not defined
+2023-07-31 13:25:09,829 - ERROR - 与MySQL数据库通信时发生错误：name 'mysql' is not defined
+2023-07-31 13:25:09,829 - INFO - 555
+2023-07-31 13:25:54,313 - ERROR - 与MySQL数据库通信时发生错误：name 'mysql' is not defined
+2023-07-31 13:25:54,313 - INFO - 555
+2023-07-31 13:26:36,595 - ERROR - 与MySQL数据库通信时发生错误：name 'mysql' is not defined
+2023-07-31 13:26:36,595 - INFO - 555
+2023-07-31 13:27:26,133 - ERROR - 与MySQL数据库通信时发生错误：name 'mysql' is not defined
+2023-07-31 13:27:26,133 - INFO - 555
+2023-07-31 13:27:26,133 - ERROR - 与MySQL数据库通信时发生错误：name 'mysql' is not defined

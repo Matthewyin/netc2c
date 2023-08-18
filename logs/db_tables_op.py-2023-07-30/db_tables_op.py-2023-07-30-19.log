@@ -1,0 +1,6 @@
+2023-07-30 19:51:41,361 - ERROR - 连接数据库时错误：module 'proc_databases.db_connector' has no attribute 'get_connection'
+2023-07-30 19:51:41,361 - ERROR - 获取管理IP时发生错误：cannot unpack non-iterable NoneType object
+2023-07-30 19:52:06,572 - ERROR - 连接数据库时错误：module 'proc_databases.db_connector' has no attribute 'get_connection'
+2023-07-30 19:52:06,572 - ERROR - 获取管理IP时发生错误：cannot unpack non-iterable NoneType object
+2023-07-30 19:55:04,921 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 19:56:53,950 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected

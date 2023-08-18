@@ -1,0 +1,60 @@
+2023-08-03 08:20:24,222 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:24,231 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:24,232 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:20:24,240 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:24,241 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:20:24,242 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:20:24,242 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 08:20:24,242 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:20:26,665 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:26,674 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 1
+2023-08-03 08:20:28,557 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:28,558 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 2
+2023-08-03 08:20:30,323 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:30,325 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 3
+2023-08-03 08:20:32,707 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:32,708 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 4
+2023-08-03 08:20:34,934 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:20:34,935 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 5
+2023-08-03 08:43:47,083 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:47,091 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:47,092 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:43:47,100 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:47,100 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:43:47,101 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:43:47,101 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 08:43:47,102 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:43:49,556 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:49,557 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 1
+2023-08-03 08:43:51,470 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:51,472 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 2
+2023-08-03 08:43:53,293 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:53,294 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 3
+2023-08-03 08:43:55,399 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:55,401 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 4
+2023-08-03 08:43:57,708 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:43:57,710 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 5
+2023-08-03 08:44:43,790 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:44:43,797 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:44:43,798 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:44:43,807 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:44:43,807 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:44:43,807 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:44:43,807 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 08:44:43,808 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:46:32,530 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:46:32,538 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:46:32,539 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:46:32,547 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:46:32,547 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:46:32,548 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:46:32,548 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 08:46:32,548 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:47:03,519 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:47:03,527 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:47:03,528 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 08:47:03,536 - INFO - 成功连接到MySQL数据库
+2023-08-03 08:47:03,536 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:47:03,537 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 08:47:03,537 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 08:47:03,537 - INFO - 成功关闭MySQL数据库连接

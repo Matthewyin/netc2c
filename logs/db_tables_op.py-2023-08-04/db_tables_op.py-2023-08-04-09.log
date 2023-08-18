@@ -1,0 +1,452 @@
+2023-08-04 09:01:40,489 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:40,498 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:40,499 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:01:40,506 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:40,506 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:01:40,507 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:01:40,507 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:01:40,507 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:01:42,897 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:42,898 - INFO - 111
+2023-08-04 09:01:42,899 - INFO - 999
+2023-08-04 09:01:42,899 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:01:42,899 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:01:44,886 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:44,887 - INFO - 111
+2023-08-04 09:01:44,887 - INFO - 999
+2023-08-04 09:01:44,887 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:01:44,888 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:01:46,704 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:46,705 - INFO - 111
+2023-08-04 09:01:46,705 - INFO - 999
+2023-08-04 09:01:46,705 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:01:46,705 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:01:48,980 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:48,980 - INFO - 111
+2023-08-04 09:01:48,981 - INFO - 999
+2023-08-04 09:01:48,981 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:01:48,981 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:01:51,399 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:01:51,399 - INFO - 111
+2023-08-04 09:01:51,400 - INFO - 999
+2023-08-04 09:01:51,400 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:01:51,400 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:38,450 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:38,458 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:38,459 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:38,468 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:38,468 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:02:38,468 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:02:38,468 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:02:38,469 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:40,840 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:40,841 - INFO - 111
+2023-08-04 09:02:40,841 - INFO - 999
+2023-08-04 09:02:40,841 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:02:40,842 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:42,929 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:42,930 - INFO - 111
+2023-08-04 09:02:42,930 - INFO - 999
+2023-08-04 09:02:42,930 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:02:42,930 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:44,595 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:44,596 - INFO - 111
+2023-08-04 09:02:44,596 - INFO - 999
+2023-08-04 09:02:44,596 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:02:44,596 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:46,851 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:46,852 - INFO - 111
+2023-08-04 09:02:46,852 - INFO - 999
+2023-08-04 09:02:46,852 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:02:46,852 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:02:49,086 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:02:49,087 - INFO - 111
+2023-08-04 09:02:49,087 - INFO - 999
+2023-08-04 09:02:49,087 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:02:49,087 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:30,716 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:30,724 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:30,725 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:30,733 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:30,733 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:06:30,734 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:06:30,734 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:06:30,734 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:33,186 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:33,187 - INFO - 111
+2023-08-04 09:06:33,187 - INFO - 999
+2023-08-04 09:06:33,187 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:06:33,187 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:35,276 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:35,277 - INFO - 111
+2023-08-04 09:06:35,277 - INFO - 999
+2023-08-04 09:06:35,277 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:06:35,277 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:37,261 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:37,262 - INFO - 111
+2023-08-04 09:06:37,262 - INFO - 999
+2023-08-04 09:06:37,262 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:06:37,262 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:39,665 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:39,666 - INFO - 111
+2023-08-04 09:06:39,666 - INFO - 999
+2023-08-04 09:06:39,666 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:06:39,666 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:06:41,945 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:06:41,946 - INFO - 111
+2023-08-04 09:06:41,946 - INFO - 999
+2023-08-04 09:06:41,946 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:06:41,946 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:21,670 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:21,679 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:21,681 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:21,689 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:21,689 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:09:21,689 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:09:21,689 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:09:21,690 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:24,345 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:24,346 - INFO - 111
+2023-08-04 09:09:24,346 - INFO - 999
+2023-08-04 09:09:24,347 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 1
+2023-08-04 09:09:24,347 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:26,371 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:26,372 - INFO - 111
+2023-08-04 09:09:26,372 - INFO - 999
+2023-08-04 09:09:26,373 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 2
+2023-08-04 09:09:26,373 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:28,224 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:28,225 - INFO - 111
+2023-08-04 09:09:28,225 - INFO - 999
+2023-08-04 09:09:28,226 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 3
+2023-08-04 09:09:28,226 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:30,282 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:30,283 - INFO - 111
+2023-08-04 09:09:30,283 - INFO - 999
+2023-08-04 09:09:30,284 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 4
+2023-08-04 09:09:30,284 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:09:32,559 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:09:32,560 - INFO - 111
+2023-08-04 09:09:32,560 - INFO - 999
+2023-08-04 09:09:32,560 - ERROR - 更新设备信息时发生错误：1265 (01000): Data truncated for column 'start_u' at row 5
+2023-08-04 09:09:32,560 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:13:10,486 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:13:10,494 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:13:10,495 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:13:10,504 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:13:10,504 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:13:10,504 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:13:10,504 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:13:10,505 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:36,171 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:36,179 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:36,180 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:36,189 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:36,189 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:17:36,190 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:17:36,190 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:17:36,190 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:38,528 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:38,529 - INFO - 111
+2023-08-04 09:17:38,529 - INFO - 999
+2023-08-04 09:17:38,530 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:17:38,530 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:40,634 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:40,635 - INFO - 111
+2023-08-04 09:17:40,635 - INFO - 999
+2023-08-04 09:17:40,636 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:17:40,636 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:42,556 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:42,558 - INFO - 111
+2023-08-04 09:17:42,558 - INFO - 999
+2023-08-04 09:17:42,559 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:17:42,559 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:44,738 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:44,739 - INFO - 111
+2023-08-04 09:17:44,739 - INFO - 999
+2023-08-04 09:17:44,739 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:17:44,739 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:17:47,024 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:17:47,025 - INFO - 111
+2023-08-04 09:17:47,025 - INFO - 999
+2023-08-04 09:17:47,026 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:17:47,026 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:04,373 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:04,382 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:04,383 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:04,391 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:04,391 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:37:04,391 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:37:04,392 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:37:04,392 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:06,873 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:06,874 - INFO - 111
+2023-08-04 09:37:06,874 - INFO - 999
+2023-08-04 09:37:06,875 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:37:06,875 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:08,881 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:08,882 - INFO - 111
+2023-08-04 09:37:08,882 - INFO - 999
+2023-08-04 09:37:08,882 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:37:08,883 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:10,718 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:10,718 - INFO - 111
+2023-08-04 09:37:10,718 - INFO - 999
+2023-08-04 09:37:10,718 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:37:10,719 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:12,968 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:12,969 - INFO - 111
+2023-08-04 09:37:12,969 - INFO - 999
+2023-08-04 09:37:12,970 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:37:12,970 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:37:15,122 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:37:15,123 - INFO - 111
+2023-08-04 09:37:15,123 - INFO - 999
+2023-08-04 09:37:15,124 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 09:37:15,124 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:22,674 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:22,682 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:22,683 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:22,691 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:22,692 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:38:22,692 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:38:22,692 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:38:22,693 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:25,154 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:25,155 - INFO - 111
+2023-08-04 09:38:25,155 - INFO - 999
+2023-08-04 09:38:25,156 - ERROR - 更新设备信息时发生错误：1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'devices_cmdb SET hostname = 'YZ-B8G07_39U-NTS-SW', manufacturer = 'Huawei', upti' at line 1
+2023-08-04 09:38:25,156 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:27,208 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:27,209 - INFO - 111
+2023-08-04 09:38:27,209 - INFO - 999
+2023-08-04 09:38:27,209 - ERROR - 更新设备信息时发生错误：1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'devices_cmdb SET hostname = 'YZ-B8G07_37U-NTS-SW', manufacturer = 'Huawei', upti' at line 1
+2023-08-04 09:38:27,210 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:29,098 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:29,099 - INFO - 111
+2023-08-04 09:38:29,099 - INFO - 999
+2023-08-04 09:38:29,099 - ERROR - 更新设备信息时发生错误：1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'devices_cmdb SET hostname = 'YZ-B8G15_26U-NTS-SW', manufacturer = 'HUAWEI', upti' at line 1
+2023-08-04 09:38:29,100 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:31,223 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:31,223 - INFO - 111
+2023-08-04 09:38:31,224 - INFO - 999
+2023-08-04 09:38:31,224 - ERROR - 更新设备信息时发生错误：1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'devices_cmdb SET hostname = 'YZ-B8G12_35U-NTS-SW', manufacturer = 'HUAWEI', upti' at line 1
+2023-08-04 09:38:31,224 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:38:33,465 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:38:33,466 - INFO - 111
+2023-08-04 09:38:33,466 - INFO - 999
+2023-08-04 09:38:33,466 - ERROR - 更新设备信息时发生错误：1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'devices_cmdb SET hostname = 'YZ-B8G13_35U-NTS-SW', manufacturer = 'HUAWEI', upti' at line 1
+2023-08-04 09:38:33,466 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:10,952 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:10,961 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:10,962 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:10,970 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:10,971 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:46:10,971 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:46:10,971 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:46:10,972 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:13,389 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:13,391 - INFO - 999
+2023-08-04 09:46:13,391 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:46:13,391 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:15,400 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:15,401 - INFO - 999
+2023-08-04 09:46:15,401 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:46:15,401 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:17,176 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:17,177 - INFO - 999
+2023-08-04 09:46:17,177 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:46:17,177 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:19,606 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:19,606 - INFO - 999
+2023-08-04 09:46:19,606 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:46:19,607 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:21,750 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:21,751 - INFO - 999
+2023-08-04 09:46:21,751 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:46:21,751 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:59,429 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:59,438 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:59,439 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:46:59,447 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:46:59,447 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:46:59,448 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:46:59,448 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:46:59,448 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:47:01,782 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:47:01,782 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:47:01,782 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:47:01,782 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:47:03,818 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:47:03,819 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:47:03,819 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:47:03,819 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:47:05,574 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:47:05,575 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:47:05,575 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:47:05,575 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:47:07,807 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:47:07,807 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:47:07,808 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:47:07,808 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:47:10,033 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:47:10,034 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:47:10,034 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:47:10,034 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:02,259 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:02,267 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:02,268 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:02,276 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:02,276 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:48:02,276 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:48:02,277 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:48:02,277 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:04,475 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:04,476 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:48:04,476 - INFO - {'ip_address': '10.1.62.27', 'hostname': 'YZ-B8G07_39U-NTS-SW', 'manufacturer': 'Huawei', 'device_mode': 'CE6857F-48S6CQ', 'uptime': '0年2月19日19时21分50秒', 'SN': '1022C6747790', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:48:04,476 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:48:04,476 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:48:04,476 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:06,477 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:06,478 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:48:06,478 - INFO - {'ip_address': '10.1.62.28', 'hostname': 'YZ-B8G07_37U-NTS-SW', 'manufacturer': 'Huawei', 'device_mode': 'CE6857F-48S6CQ', 'uptime': '0年2月19日19时23分21秒', 'SN': '1022C6747774', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:48:06,478 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:48:06,478 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:48:06,478 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:08,214 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:08,215 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:48:08,215 - INFO - {'ip_address': '10.1.62.14', 'hostname': 'YZ-B8G15_26U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年8月13日14时37分10秒', 'SN': '2102350RTB6TJ1000009', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:48:08,215 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:48:08,215 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:48:08,215 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:10,504 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:10,505 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:48:10,505 - INFO - {'ip_address': '10.1.62.60', 'hostname': 'YZ-B8G12_35U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年6月22日19时10分52秒', 'SN': '2102350RTB6THC000012', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:48:10,505 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:48:10,505 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:48:10,505 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:48:12,735 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:48:12,735 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:48:12,736 - INFO - {'ip_address': '10.1.62.53', 'hostname': 'YZ-B8G13_35U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年6月21日17时33分41秒', 'SN': '2102350RTB6THC000360', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:48:12,736 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:48:12,736 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:48:12,736 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:26,828 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:26,837 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:26,838 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:26,846 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:26,846 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:49:26,847 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:49:26,847 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:49:26,847 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:29,339 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:29,340 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:49:29,340 - INFO - {'ip_address': '10.1.62.27', 'hostname': 'YZ-B8G07_39U-NTS-SW', 'manufacturer': 'Huawei', 'device_mode': 'CE6857F-48S6CQ', 'uptime': '0年2月19日19时23分15秒', 'SN': '1022C6747790', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:49:29,340 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:49:29,340 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:49:29,340 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:31,306 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:31,307 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:49:31,307 - INFO - {'ip_address': '10.1.62.28', 'hostname': 'YZ-B8G07_37U-NTS-SW', 'manufacturer': 'Huawei', 'device_mode': 'CE6857F-48S6CQ', 'uptime': '0年2月19日19时24分46秒', 'SN': '1022C6747774', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:49:31,307 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:49:31,307 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:49:31,307 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:33,068 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:33,069 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:49:33,069 - INFO - {'ip_address': '10.1.62.14', 'hostname': 'YZ-B8G15_26U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年8月13日14时38分35秒', 'SN': '2102350RTB6TJ1000009', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:49:33,069 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:49:33,069 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:49:33,069 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:35,599 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:35,600 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:49:35,600 - INFO - {'ip_address': '10.1.62.60', 'hostname': 'YZ-B8G12_35U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年6月22日19时12分17秒', 'SN': '2102350RTB6THC000012', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:49:35,600 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:49:35,600 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:49:35,600 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:49:37,893 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:49:37,894 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:49:37,894 - INFO - {'ip_address': '10.1.62.53', 'hostname': 'YZ-B8G13_35U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年6月21日17时35分6秒', 'SN': '2102350RTB6THC000360', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:49:37,894 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:49:37,894 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:49:37,894 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:23,053 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:23,062 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:23,063 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:23,071 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:23,072 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:50:23,072 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:50:23,072 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:50:23,073 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:25,535 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:25,536 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:50:25,536 - INFO - {'ip_address': '10.1.62.27', 'hostname': 'YZ-B8G07_39U-NTS-SW', 'manufacturer': 'Huawei', 'device_mode': 'CE6857F-48S6CQ', 'uptime': '0年2月19日19时24分11秒', 'SN': '1022C6747790', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '39U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:50:25,536 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:50:25,536 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000013E79CA9CF0>>
+2023-08-04 09:50:25,536 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:50:25,536 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:27,342 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:27,343 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:50:27,343 - INFO - {'ip_address': '10.1.62.28', 'hostname': 'YZ-B8G07_37U-NTS-SW', 'manufacturer': 'Huawei', 'device_mode': 'CE6857F-48S6CQ', 'uptime': '0年2月19日19时25分42秒', 'SN': '1022C6747774', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G07', 'start_u': '37U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:50:27,343 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:50:27,343 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000013E79CA9150>>
+2023-08-04 09:50:27,343 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:50:27,343 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:28,915 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:28,917 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:50:28,917 - INFO - {'ip_address': '10.1.62.14', 'hostname': 'YZ-B8G15_26U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年8月13日14时39分31秒', 'SN': '2102350RTB6TJ1000009', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G15', 'start_u': '26U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:50:28,917 - INFO - +++++++++++++++++++++++++++
+
+2023-08-04 09:50:28,917 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:50:28,917 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:31,097 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:31,098 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:50:31,098 - INFO - {'ip_address': '10.1.62.60', 'hostname': 'YZ-B8G12_35U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年6月22日19时13分13秒', 'SN': '2102350RTB6THC000012', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G12', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:50:31,098 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:50:31,098 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000013E79D43580>>
+2023-08-04 09:50:31,098 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:50:31,098 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:50:33,338 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:50:33,339 - INFO - UPDATE devices_cmdb SET hostname = %s, manufacturer = %s, device_model = %s, uptime = %s, data_center = %s, block = %s, cabinet = %s, start_u = %s, network_area = %s, device_type = %s WHERE SN = %s
+2023-08-04 09:50:33,339 - INFO - {'ip_address': '10.1.62.53', 'hostname': 'YZ-B8G13_35U-NTS-SW', 'manufacturer': 'HUAWEI', 'device_mode': 'CE6855-48S6Q-HI', 'uptime': '0年6月21日17时36分2秒', 'SN': '2102350RTB6THC000360', 'data_center': '亦庄', 'block': '8', 'cabinet': 'G13', 'start_u': '35U', 'network_area': '测试环境', 'device_type': '交换机'}
+2023-08-04 09:50:33,339 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:50:33,339 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000013E7A5A7B20>>
+2023-08-04 09:50:33,339 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:50:33,339 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:06,560 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:06,569 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:06,570 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:06,578 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:06,578 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:53:06,579 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 09:53:06,579 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 09:53:06,579 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:09,026 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:09,027 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:53:09,027 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138379CF0>>
+2023-08-04 09:53:09,028 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138379CF0>>
+2023-08-04 09:53:09,028 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:53:09,028 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:11,071 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:11,072 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:53:11,072 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138379150>>
+2023-08-04 09:53:11,072 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138379150>>
+2023-08-04 09:53:11,072 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:53:11,072 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:13,060 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:13,060 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:53:13,060 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000271383CB5B0>>
+2023-08-04 09:53:13,060 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000271383CB5B0>>
+2023-08-04 09:53:13,060 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:53:13,060 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:15,416 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:15,416 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:53:15,417 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138417580>>
+2023-08-04 09:53:15,417 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138417580>>
+2023-08-04 09:53:15,417 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:53:15,417 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 09:53:17,708 - INFO - 成功连接到MySQL数据库
+2023-08-04 09:53:17,709 - INFO - +++++++++++++++++++++++++++
+2023-08-04 09:53:17,709 - DEBUG - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138C7BB20>>
+2023-08-04 09:53:17,709 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027138C7BB20>>
+2023-08-04 09:53:17,709 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 09:53:17,709 - INFO - 成功关闭MySQL数据库连接

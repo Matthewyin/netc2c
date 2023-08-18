@@ -1,0 +1,308 @@
+2023-08-04 02:01:14,562 - ERROR - 与MySQL数据库通信时发生错误：Unsupported argument 'dialect'
+2023-08-04 02:01:14,562 - ERROR - 与MySQL数据库通信时发生错误：Unsupported argument 'dialect'
+2023-08-04 02:01:45,010 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:45,017 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:45,019 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:01:45,026 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:45,026 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:01:45,027 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:01:45,027 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:01:45,028 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:01:47,487 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:47,488 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:01:47,489 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:01:49,635 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:49,636 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:01:49,636 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:01:51,356 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:51,357 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:01:51,357 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:01:53,619 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:53,620 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:01:53,620 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:01:55,951 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:01:55,952 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:01:55,952 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:29,831 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:29,840 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:29,841 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:29,849 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:29,849 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:03:29,849 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:03:29,850 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:03:29,850 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:32,134 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:32,134 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:03:32,134 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:34,088 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:34,089 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:03:34,089 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:35,849 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:35,850 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:03:35,850 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:38,105 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:38,105 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:03:38,106 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:03:40,346 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:03:40,347 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:03:40,347 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:06:38,425 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:38,434 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:38,434 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:06:38,443 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:38,443 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:06:38,443 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:06:38,443 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:06:38,444 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:06:40,811 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:42,802 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:44,593 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:46,744 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:06:49,022 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:10,128 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:10,136 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:10,137 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:10:10,145 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:10,145 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:10:10,146 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:10:10,146 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:10:10,146 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:10:12,603 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:12,604 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:10:12,605 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:10:14,700 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:14,701 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:10:14,701 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:10:16,772 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:16,773 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:10:16,773 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:10:19,202 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:19,203 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:10:19,203 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:10:21,339 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:10:21,339 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:10:21,339 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:08,923 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:08,932 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:08,933 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:08,941 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:08,941 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:11:08,942 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:11:08,942 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:11:08,942 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:11,259 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:11,260 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:11,260 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:13,334 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:13,334 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:13,334 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:15,199 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:15,199 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:15,200 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:17,451 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:17,452 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:17,452 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:19,674 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:19,676 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:19,676 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:40,811 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:40,820 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:40,821 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:40,829 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:40,829 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:11:40,830 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:11:40,830 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:11:40,830 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:43,080 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:43,081 - INFO - 999
+2023-08-04 02:11:43,081 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:43,081 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:45,099 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:45,100 - INFO - 999
+2023-08-04 02:11:45,100 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:45,100 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:47,003 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:47,003 - INFO - 999
+2023-08-04 02:11:47,004 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:47,004 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:49,317 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:49,318 - INFO - 999
+2023-08-04 02:11:49,319 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:49,319 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:11:51,481 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:11:51,482 - INFO - 999
+2023-08-04 02:11:51,482 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:11:51,483 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:30,160 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:30,168 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:30,169 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:30,177 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:30,177 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:12:30,178 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:12:30,178 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:12:30,178 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:32,485 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:32,486 - INFO - 999
+2023-08-04 02:12:32,486 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:12:32,486 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:34,571 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:34,572 - INFO - 999
+2023-08-04 02:12:34,572 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:12:34,572 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:36,447 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:36,447 - INFO - 999
+2023-08-04 02:12:36,448 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:12:36,448 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:38,642 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:38,643 - INFO - 999
+2023-08-04 02:12:38,643 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:12:38,643 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:40,942 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:40,942 - INFO - 999
+2023-08-04 02:12:40,943 - ERROR - 更新设备信息时发生错误：'device_model'
+2023-08-04 02:12:40,943 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:56,994 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:57,003 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:57,003 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:57,012 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:57,012 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:12:57,013 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:12:57,013 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:12:57,013 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:12:59,514 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:12:59,515 - INFO - 999
+2023-08-04 02:12:59,515 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G07_39U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:12:59,515 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:13:01,806 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:13:01,807 - INFO - 999
+2023-08-04 02:13:01,807 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G07_37U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:13:01,807 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:13:09,696 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:13:09,697 - INFO - 999
+2023-08-04 02:13:09,697 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G15_26U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:13:09,697 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:13:12,957 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:13:12,958 - INFO - 999
+2023-08-04 02:13:12,958 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G12_35U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:13:12,958 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:13:15,196 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:13:15,197 - INFO - 999
+2023-08-04 02:13:15,197 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G13_35U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:13:15,197 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:45,807 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:45,814 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:45,815 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:45,823 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:45,823 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:14:45,824 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:14:45,824 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:14:45,824 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:48,173 - INFO - <class 'dict'>
+2023-08-04 02:14:48,182 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:48,183 - INFO - 999
+2023-08-04 02:14:48,183 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G07_39U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:14:48,183 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:50,255 - INFO - <class 'dict'>
+2023-08-04 02:14:50,264 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:50,265 - INFO - 999
+2023-08-04 02:14:50,266 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G07_37U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:14:50,266 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:52,000 - INFO - <class 'dict'>
+2023-08-04 02:14:52,009 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:52,009 - INFO - 999
+2023-08-04 02:14:52,010 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G15_26U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:14:52,010 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:54,381 - INFO - <class 'dict'>
+2023-08-04 02:14:54,390 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:54,391 - INFO - 999
+2023-08-04 02:14:54,391 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G12_35U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:14:54,391 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:14:56,514 - INFO - <class 'dict'>
+2023-08-04 02:14:56,523 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:14:56,524 - INFO - 999
+2023-08-04 02:14:56,524 - ERROR - 更新设备信息时发生错误：Could not process parameters: str(YZ-B8G13_35U-NTS-SW), it must be of type list, tuple or dict
+2023-08-04 02:14:56,524 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:12,772 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:12,781 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:12,782 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:12,790 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:12,790 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:18:12,791 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:18:12,791 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:18:12,791 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:15,688 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:15,690 - INFO - 999
+2023-08-04 02:18:15,690 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:18:15,690 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:17,841 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:17,842 - INFO - 999
+2023-08-04 02:18:17,842 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:18:17,842 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:19,614 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:19,615 - INFO - 999
+2023-08-04 02:18:19,615 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:18:19,615 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:21,902 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:21,903 - INFO - 999
+2023-08-04 02:18:21,903 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:18:21,903 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:18:24,170 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:18:24,171 - INFO - 999
+2023-08-04 02:18:24,171 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:18:24,171 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:23,430 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:23,438 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:23,439 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:23,447 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:23,447 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:19:23,448 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:19:23,448 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:19:23,448 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:25,935 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:25,937 - INFO - 999
+2023-08-04 02:19:25,937 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:25,937 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:28,085 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:28,086 - INFO - 999
+2023-08-04 02:19:28,086 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:28,087 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:29,898 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:29,899 - INFO - 999
+2023-08-04 02:19:29,899 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:29,899 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:32,161 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:32,162 - INFO - 999
+2023-08-04 02:19:32,162 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:32,162 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:34,422 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:34,423 - INFO - 999
+2023-08-04 02:19:34,423 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:34,423 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:54,128 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:54,136 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:54,137 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:54,145 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:54,145 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:19:54,145 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 02:19:54,145 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 02:19:54,146 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:56,564 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:56,565 - INFO - 999
+2023-08-04 02:19:56,565 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:56,565 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:19:58,537 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:19:58,538 - INFO - 999
+2023-08-04 02:19:58,538 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:19:58,538 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:20:00,283 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:20:00,283 - INFO - 999
+2023-08-04 02:20:00,283 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:20:00,283 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:20:02,405 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:20:02,406 - INFO - 999
+2023-08-04 02:20:02,406 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:20:02,406 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 02:20:04,683 - INFO - 成功连接到MySQL数据库
+2023-08-04 02:20:04,683 - INFO - 999
+2023-08-04 02:20:04,684 - ERROR - 更新设备信息时发生错误：Not enough parameters for the SQL statement
+2023-08-04 02:20:04,684 - INFO - 成功关闭MySQL数据库连接

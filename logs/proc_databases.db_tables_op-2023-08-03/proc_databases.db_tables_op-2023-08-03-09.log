@@ -1,0 +1,80 @@
+2023-08-03 09:03:49,180 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:03:49,189 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:03:49,190 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:03:49,198 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:03:49,198 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:03:49,198 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:03:49,199 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:03:49,199 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:04:34,808 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:04:34,817 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:04:34,818 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:04:34,826 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:04:34,826 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:04:34,827 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:04:34,827 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:04:34,827 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:05:41,080 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:05:41,088 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:05:41,089 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:05:41,098 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:05:41,098 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:05:41,099 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:05:41,099 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:05:41,099 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:06:29,370 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:06:29,378 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:06:29,379 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:06:29,387 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:06:29,387 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:06:29,388 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:06:29,388 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:06:29,388 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:07:39,106 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:07:39,114 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:07:39,115 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:07:39,124 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:07:39,124 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:07:39,125 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:07:39,125 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:07:39,125 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:10:24,108 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:10:24,117 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:10:24,118 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:10:24,126 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:10:24,126 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:10:24,127 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:10:24,127 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:10:24,127 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:11:02,274 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:11:02,282 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:11:02,283 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:11:02,291 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:11:02,291 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:11:02,292 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:11:02,292 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:11:02,292 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:30:55,141 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:30:55,149 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:30:55,150 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:30:55,158 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:30:55,158 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:30:55,159 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:30:55,159 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:30:55,159 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:31:36,314 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:31:36,322 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:31:36,324 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:31:36,331 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:31:36,331 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:31:36,332 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:31:36,332 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:31:36,332 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:34:39,141 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:34:39,149 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:34:39,150 - INFO - 成功关闭MySQL数据库连接
+2023-08-03 09:34:39,157 - INFO - 成功连接到MySQL数据库
+2023-08-03 09:34:39,157 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:34:39,159 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-03 09:34:39,159 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-03 09:34:39,159 - INFO - 成功关闭MySQL数据库连接

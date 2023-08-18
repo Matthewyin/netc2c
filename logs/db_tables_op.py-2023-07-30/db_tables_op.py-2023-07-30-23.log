@@ -1,0 +1,41 @@
+2023-07-30 23:04:16,057 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:15:01,304 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:20:26,172 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:23:37,786 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:29:09,241 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:29:54,381 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020B1EFFF0A0>, CMySQLCursor: (Nothing executed yet)
+2023-07-30 23:29:54,382 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020B1EFFF0A0>, CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-30 23:29:54,383 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:30:45,475 - INFO - 111
+2023-07-30 23:30:45,476 - INFO - 111
+2023-07-30 23:30:45,477 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:32:04,336 - INFO - 111
+2023-07-30 23:32:04,338 - INFO - 222
+2023-07-30 23:32:04,338 - INFO - 111
+2023-07-30 23:32:04,338 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:34:12,304 - INFO - 111
+2023-07-30 23:34:12,305 - INFO - 222
+2023-07-30 23:34:12,305 - INFO - 111
+2023-07-30 23:34:12,305 - DEBUG - (<mysql.connector.connection_cext.CMySQLConnection object at 0x000002273D73F0A0>, <mysql.connector.cursor_cext.CMySQLCursor object at 0x000002273FF1E170>)
+2023-07-30 23:34:12,305 - INFO - 111
+2023-07-30 23:34:12,305 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:35:26,480 - INFO - 111
+2023-07-30 23:35:26,481 - INFO - 222
+2023-07-30 23:35:26,481 - INFO - 111
+2023-07-30 23:35:26,481 - DEBUG - (<mysql.connector.connection_cext.CMySQLConnection object at 0x00000206CCD1F0A0>, <mysql.connector.cursor_cext.CMySQLCursor object at 0x00000206CF4EE170>)
+2023-07-30 23:35:26,481 - INFO - 111
+2023-07-30 23:35:26,482 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:36:13,327 - INFO - 111
+2023-07-30 23:36:13,328 - INFO - 111
+2023-07-30 23:36:13,328 - INFO - 222
+2023-07-30 23:36:13,328 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:36:35,103 - INFO - 111
+2023-07-30 23:36:35,104 - INFO - 111
+2023-07-30 23:36:35,104 - INFO - 111
+2023-07-30 23:36:35,104 - DEBUG - (<mysql.connector.connection_cext.CMySQLConnection object at 0x000001DC4D0CF0A0>, <mysql.connector.cursor_cext.CMySQLCursor object at 0x000001DC4F89E170>)
+2023-07-30 23:36:35,105 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected
+2023-07-30 23:37:44,517 - INFO - 111
+2023-07-30 23:37:44,518 - INFO - 111
+2023-07-30 23:37:44,518 - DEBUG - <mysql.connector.connection_cext.CMySQLConnection object at 0x000002665979F0A0>
+2023-07-30 23:37:44,518 - DEBUG - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-30 23:37:44,518 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected

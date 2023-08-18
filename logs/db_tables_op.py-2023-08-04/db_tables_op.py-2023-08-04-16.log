@@ -1,0 +1,43 @@
+2023-08-04 16:32:49,918 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:49,926 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:49,926 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 16:32:49,934 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:49,934 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 16:32:49,936 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 16:32:49,936 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 16:32:49,936 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 16:32:52,947 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:52,948 - INFO - +++++++++++++++++++++++++++
+2023-08-04 16:32:52,948 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000211043AB130>>
+2023-08-04 16:32:52,948 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 16:32:52,950 - INFO - 333
+2023-08-04 16:32:52,950 - INFO - 666
+2023-08-04 16:32:52,951 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 16:32:55,119 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:55,119 - INFO - +++++++++++++++++++++++++++
+2023-08-04 16:32:55,119 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002110443D2A0>>
+2023-08-04 16:32:55,119 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 16:32:55,120 - INFO - 333
+2023-08-04 16:32:55,120 - INFO - 666
+2023-08-04 16:32:55,122 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 16:32:57,000 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:57,001 - INFO - +++++++++++++++++++++++++++
+2023-08-04 16:32:57,001 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000211044AA800>>
+2023-08-04 16:32:57,001 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 16:32:57,002 - INFO - 333
+2023-08-04 16:32:57,002 - INFO - 666
+2023-08-04 16:32:57,004 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 16:32:59,295 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:32:59,296 - INFO - +++++++++++++++++++++++++++
+2023-08-04 16:32:59,296 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x00000211044C1300>>
+2023-08-04 16:32:59,296 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 16:32:59,297 - INFO - 333
+2023-08-04 16:32:59,297 - INFO - 666
+2023-08-04 16:32:59,299 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 16:33:01,581 - INFO - 成功连接到MySQL数据库
+2023-08-04 16:33:01,582 - INFO - +++++++++++++++++++++++++++
+2023-08-04 16:33:01,582 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000021104512D10>>
+2023-08-04 16:33:01,582 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 16:33:01,583 - INFO - 333
+2023-08-04 16:33:01,583 - INFO - 666
+2023-08-04 16:33:01,586 - INFO - 成功关闭MySQL数据库连接

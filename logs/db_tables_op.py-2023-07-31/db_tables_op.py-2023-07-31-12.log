@@ -1,0 +1,3 @@
+2023-07-31 12:59:17,852 - INFO - 555
+2023-07-31 12:59:17,853 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-07-31 12:59:17,854 - ERROR - 获取第一个账户时发生错误：2055: Cursor is not connected

@@ -1,0 +1,123 @@
+2023-07-31 00:11:59,931 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:11:59,931 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:11:59,932 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:12:36,873 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:12:36,873 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:12:36,874 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:12:54,841 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:12:54,841 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:12:54,842 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:12,466 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:12,466 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:12,468 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:24,601 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:24,601 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:24,602 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:41,367 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:41,367 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:13:41,368 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:27:38,478 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:27:38,478 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:27:38,479 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:28:00,742 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:28:00,742 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:28:00,743 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:31:02,252 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x00000135F796F0A0>
+2023-07-31 00:31:02,252 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:31:02,252 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:31:02,252 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x00000135F796F0A0>
+2023-07-31 00:31:02,252 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:31:02,252 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:31:02,254 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x00000135F796F0A0>
+2023-07-31 00:31:02,254 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:31:02,254 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:37:11,727 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000026690B4F0A0>
+2023-07-31 00:37:11,727 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:37:11,727 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:37:11,727 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000026690B4F0A0>
+2023-07-31 00:37:11,727 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:37:11,727 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:37:11,728 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000026690B4F0A0>
+2023-07-31 00:37:11,728 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:37:11,729 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:38:20,265 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020F153FF0A0>
+2023-07-31 00:38:20,265 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:38:20,265 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:38:20,265 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020F153FF0A0>
+2023-07-31 00:38:20,265 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:38:20,265 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:38:20,266 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000020F153FF0A0>
+2023-07-31 00:38:20,266 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:38:20,267 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:41:10,571 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000001A8B065F0A0>
+2023-07-31 00:41:10,571 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:41:10,571 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:41:10,572 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000001A8B065F0A0>
+2023-07-31 00:41:10,572 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:41:10,572 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:41:10,573 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000001A8B065F0A0>
+2023-07-31 00:41:10,573 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:41:10,573 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:42:19,774 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000001875441F0A0>
+2023-07-31 00:42:19,774 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:42:19,775 - INFO - 999
+2023-07-31 00:42:19,775 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:42:19,775 - INFO - 888
+2023-07-31 00:42:19,775 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000001875441F0A0>
+2023-07-31 00:42:19,775 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:42:19,775 - INFO - 999
+2023-07-31 00:42:19,775 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:42:19,775 - INFO - 888
+2023-07-31 00:42:19,776 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000001875441F0A0>
+2023-07-31 00:42:19,776 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:42:19,777 - INFO - 999
+2023-07-31 00:42:19,777 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:42:19,777 - INFO - 888
+2023-07-31 00:45:49,498 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x00000280F07CF0A0>
+2023-07-31 00:45:49,498 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:45:49,498 - INFO - 999
+2023-07-31 00:45:49,498 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:45:49,498 - INFO - 888
+2023-07-31 00:45:49,499 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x00000280F07CF0A0>
+2023-07-31 00:45:49,499 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:45:49,499 - INFO - 999
+2023-07-31 00:45:49,499 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:45:49,499 - INFO - 888
+2023-07-31 00:45:49,500 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x00000280F07CF0A0>
+2023-07-31 00:45:49,500 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:45:49,500 - INFO - 999
+2023-07-31 00:45:49,500 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:45:49,500 - INFO - 888
+2023-07-31 00:50:33,766 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000023F186BF0A0>
+2023-07-31 00:50:33,767 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:50:33,767 - INFO - 999
+2023-07-31 00:50:33,767 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:50:33,767 - INFO - 888
+2023-07-31 00:50:33,767 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000023F186BF0A0>
+2023-07-31 00:50:33,767 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:50:33,767 - INFO - 999
+2023-07-31 00:50:33,767 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:50:33,767 - INFO - 888
+2023-07-31 00:50:33,769 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000023F186BF0A0>
+2023-07-31 00:50:33,769 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:50:33,769 - INFO - 999
+2023-07-31 00:50:33,769 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:50:33,769 - INFO - 888
+2023-07-31 00:53:01,494 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000014531E6F0A0>
+2023-07-31 00:53:01,494 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:53:01,494 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:53:01,495 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000014531E6F0A0>
+2023-07-31 00:53:01,495 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:53:01,495 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:53:01,496 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x0000014531E6F0A0>
+2023-07-31 00:53:01,496 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:53:01,496 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:53:21,047 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000002871F5CF0A0>
+2023-07-31 00:53:21,047 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:53:21,047 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:53:21,048 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000002871F5CF0A0>
+2023-07-31 00:53:21,048 - INFO - CMySQLCursor: (Nothing executed yet)
+2023-07-31 00:53:21,048 - INFO - 成功连接到MySQL数据库
+2023-07-31 00:53:21,049 - INFO - <mysql.connector.connection_cext.CMySQLConnection object at 0x000002871F5CF0A0>
+2023-07-31 00:53:21,049 - INFO - CMySQLCursor: SELECT mgmt_ip FROM devices_mgmt_ip ORDE..
+2023-07-31 00:53:21,049 - INFO - 成功连接到MySQL数据库

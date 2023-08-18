@@ -1,0 +1,181 @@
+2023-08-04 11:06:23,959 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:23,967 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:23,969 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:06:23,977 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:23,977 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 11:06:23,978 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 11:06:23,978 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 11:06:23,978 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:06:26,362 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:26,363 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:06:26,364 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002E93F9AD4E0>>
+2023-08-04 11:06:26,364 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:06:26,364 - ERROR - 更新设备信息时发生错误：'products_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['products_model'], device_info['uptime'],
+KeyError: 'products_model'
+2023-08-04 11:06:26,365 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:06:28,400 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:28,401 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:06:28,401 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002E93F9ADCF0>>
+2023-08-04 11:06:28,401 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:06:28,401 - ERROR - 更新设备信息时发生错误：'products_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['products_model'], device_info['uptime'],
+KeyError: 'products_model'
+2023-08-04 11:06:28,402 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:06:30,468 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:30,469 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:06:30,469 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002E93FA1B700>>
+2023-08-04 11:06:30,469 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:06:30,469 - ERROR - 更新设备信息时发生错误：'products_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['products_model'], device_info['uptime'],
+KeyError: 'products_model'
+2023-08-04 11:06:30,469 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:06:32,575 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:32,576 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:06:32,576 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002E93FA6F6D0>>
+2023-08-04 11:06:32,576 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:06:32,576 - ERROR - 更新设备信息时发生错误：'products_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['products_model'], device_info['uptime'],
+KeyError: 'products_model'
+2023-08-04 11:06:32,576 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:06:35,038 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:06:35,039 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:06:35,039 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x000002E9402DBC70>>
+2023-08-04 11:06:35,039 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:06:35,040 - ERROR - 更新设备信息时发生错误：'products_model'
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 174, in update_device_info
+    device_info['products_model'], device_info['uptime'],
+KeyError: 'products_model'
+2023-08-04 11:06:35,040 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:25,470 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:25,479 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:25,480 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:25,488 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:25,488 - INFO - 执行查询：SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 11:11:25,489 - INFO - SELECT username, password FROM devices_account LIMIT 1
+2023-08-04 11:11:25,489 - DEBUG - 获取到的设备账户信息：('networkadmin', '1qaz@WSX')
+2023-08-04 11:11:25,489 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:27,937 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:27,938 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:11:27,938 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027EFA744A60>>
+2023-08-04 11:11:27,938 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:11:27,939 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Check constraint 'devices_cmdb_chk_1' is violated.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 173, in update_device_info
+    cursor.execute(query, (device_info['hostname'], device_info['manufacturer'],
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 11:11:27,989 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:29,970 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:29,971 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:11:29,971 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027EFA8A9540>>
+2023-08-04 11:11:29,971 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:11:29,972 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Check constraint 'devices_cmdb_chk_1' is violated.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 173, in update_device_info
+    cursor.execute(query, (device_info['hostname'], device_info['manufacturer'],
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 11:11:29,972 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:31,719 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:31,720 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:11:31,720 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027EFA8F2A70>>
+2023-08-04 11:11:31,720 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:11:31,721 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Check constraint 'devices_cmdb_chk_1' is violated.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 173, in update_device_info
+    cursor.execute(query, (device_info['hostname'], device_info['manufacturer'],
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 11:11:31,721 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:33,995 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:33,996 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:11:33,996 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027EFA91A290>>
+2023-08-04 11:11:33,996 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:11:33,996 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Check constraint 'devices_cmdb_chk_1' is violated.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 173, in update_device_info
+    cursor.execute(query, (device_info['hostname'], device_info['manufacturer'],
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 11:11:33,997 - INFO - 成功关闭MySQL数据库连接
+2023-08-04 11:11:36,298 - INFO - 成功连接到MySQL数据库
+2023-08-04 11:11:36,300 - INFO - +++++++++++++++++++++++++++
+2023-08-04 11:11:36,300 - INFO - <bound method CMySQLCursor.execute of <mysql.connector.cursor_cext.CMySQLCursorBuffered object at 0x0000027EFA95EF80>>
+2023-08-04 11:11:36,300 - INFO - <class 'mysql.connector.cursor_cext.CMySQLCursorBuffered'>
+2023-08-04 11:11:36,301 - ERROR - 更新设备信息时发生错误：3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 633, in cmd_query
+    self._cmysql.query(
+_mysql_connector.MySQLInterfaceError: Check constraint 'devices_cmdb_chk_1' is violated.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\Coding\pythonStudy\Info_collector\proc_databases\db_tables_op.py", line 173, in update_device_info
+    cursor.execute(query, (device_info['hostname'], device_info['manufacturer'],
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\cursor_cext.py", line 330, in execute
+    result = self._cnx.cmd_query(
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "E:\Coding\pythonStudy\Info_collector\venv\lib\site-packages\mysql\connector\connection_cext.py", line 641, in cmd_query
+    raise get_mysql_exception(
+mysql.connector.errors.DatabaseError: 3819 (HY000): Check constraint 'devices_cmdb_chk_1' is violated.
+2023-08-04 11:11:36,301 - INFO - 成功关闭MySQL数据库连接

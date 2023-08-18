@@ -1,0 +1,115 @@
+2023-08-03 09:03:49,132 - INFO - 开始获取设备信息...
+2023-08-03 09:03:51,713 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:03:51,713 - INFO - ('Huawei', ' CE6857F-48S6CQ \r')
+2023-08-03 09:03:51,714 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:03:53,653 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:03:53,653 - INFO - ('Huawei', ' CE6857F-48S6CQ \r')
+2023-08-03 09:03:53,653 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:03:55,585 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:03:55,586 - INFO - ('Huawei', 'CE6855-48S6Q-HI \r')
+2023-08-03 09:03:55,586 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:03:57,962 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:03:57,962 - INFO - ('Huawei', 'CE6855-48S6Q-HI \r')
+2023-08-03 09:03:57,963 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:04:00,076 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:04:00,076 - INFO - ('Huawei', 'CE6855-48S6Q-HI \r')
+2023-08-03 09:04:00,076 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:04:34,761 - INFO - 开始获取设备信息...
+2023-08-03 09:04:37,284 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:04:37,285 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:04:39,262 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:04:39,262 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:04:41,086 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:04:41,087 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:04:43,377 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:04:43,377 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:04:45,667 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:04:45,668 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:05:41,033 - INFO - 开始获取设备信息...
+2023-08-03 09:05:43,598 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:05:43,599 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:05:45,722 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:05:45,722 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:05:47,482 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:05:47,482 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:05:49,659 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:05:49,659 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:05:51,949 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:05:51,950 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:06:29,324 - INFO - 开始获取设备信息...
+2023-08-03 09:06:31,540 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:06:31,541 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:06:33,721 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:06:33,721 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:06:35,705 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:06:35,705 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:06:38,117 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:06:38,117 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:06:40,411 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:06:40,411 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:07:39,059 - INFO - 开始获取设备信息...
+2023-08-03 09:07:41,297 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:07:41,298 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:07:43,301 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:07:43,301 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:07:45,185 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:07:45,185 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:07:47,389 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:07:47,389 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:07:49,459 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:07:49,459 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:10:24,060 - INFO - 开始获取设备信息...
+2023-08-03 09:10:26,753 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:10:26,754 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'manufacturer'
+2023-08-03 09:10:28,698 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:10:28,699 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'manufacturer'
+2023-08-03 09:10:30,466 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:10:30,466 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'manufacturer'
+2023-08-03 09:10:32,838 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:10:32,838 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'manufacturer'
+2023-08-03 09:10:35,019 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:10:35,019 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'manufacturer'
+2023-08-03 09:11:02,227 - INFO - 开始获取设备信息...
+2023-08-03 09:11:04,809 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:11:04,809 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:11:06,770 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:11:06,770 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:11:08,691 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:11:08,692 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:11:11,055 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:11:11,055 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:11:13,439 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:11:13,439 - ERROR - 解析XML时发生错误：tuple indices must be integers or slices, not str
+2023-08-03 09:30:55,094 - INFO - 开始获取设备信息...
+2023-08-03 09:30:57,555 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:30:57,556 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:30:59,487 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:30:59,487 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:01,330 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:31:01,330 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:03,565 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:31:03,565 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:05,796 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:31:05,797 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:36,267 - INFO - 开始获取设备信息...
+2023-08-03 09:31:38,542 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:31:38,543 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:40,644 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:31:40,644 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:42,369 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:31:42,369 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:44,581 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:31:44,581 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:31:46,594 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:31:46,594 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:34:39,094 - INFO - 开始获取设备信息...
+2023-08-03 09:34:41,928 - INFO - 与交换机 10.1.62.27 830端口通信成功。
+2023-08-03 09:34:41,928 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:34:43,929 - INFO - 与交换机 10.1.62.28 830端口通信成功。
+2023-08-03 09:34:43,929 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:34:45,769 - INFO - 与交换机 10.1.62.14 830端口通信成功。
+2023-08-03 09:34:45,769 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:34:47,886 - INFO - 与交换机 10.1.62.60 830端口通信成功。
+2023-08-03 09:34:47,886 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
+2023-08-03 09:34:50,181 - INFO - 与交换机 10.1.62.53 830端口通信成功。
+2023-08-03 09:34:50,181 - ERROR - 解析XML时发生错误：'tuple' object has no attribute 'get'
